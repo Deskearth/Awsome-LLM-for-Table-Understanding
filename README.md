@@ -1,6 +1,5 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-![](https://img.shields.io/github/last-commit/BUPT-GAMMA/GFMpapers?color=blue)
 
 # Awsome-LLM-for-Table-Understanding
 A comprehensive paper list of Large Language Model for Table Understanding
