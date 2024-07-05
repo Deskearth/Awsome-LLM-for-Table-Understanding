@@ -5,6 +5,8 @@
 A comprehensive paper list of Large Language Model for Table Understanding
 
 ## Contents
+- [Tutorial](#tutorial)
+- [Dataset](#dataset)
 
 ## Tutorial
 
