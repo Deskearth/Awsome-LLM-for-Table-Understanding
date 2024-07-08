@@ -8,6 +8,10 @@ A comprehensive paper list of Large Language Model for Table Understanding
 - [Tutorial](##tutorial)
 - [Dataset](##dataset)
 - [Paper](##paper)
+  - [Table Encoding](###table-encoding)
+  - [Model Structure for Tabular Data](###model-structure-for-tabular-data)
+  - [LLM Training with Tabular Data](###llm-training-with-tabular-data)
+  - [LLM-driven Table Agents](###llm-driven-table-agents)
 
 ## Tutorial
 
