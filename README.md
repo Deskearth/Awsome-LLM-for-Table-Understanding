@@ -8,7 +8,6 @@ A comprehensive paper list of Large Language Model for Table Understanding
 - [Tutorial](##tutorial)
 - [Dataset](##dataset)
 - [Paper](##paper)
-- [Table Encoding](###TableEncoding)
 
 ## Tutorial
 
