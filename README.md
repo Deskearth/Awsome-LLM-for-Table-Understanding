@@ -22,6 +22,9 @@ A comprehensive paper list of Large Language Model for Table Understanding
 ## Paper
 
 ### Table Encoding
+* Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs. [[Paper]](https://arxiv.org/pdf/2310.10358)
+* GPT4Table: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study. [[Paper]](https://arxiv.org/pdf/2305.13062)
+* DBCopilot: Scaling Natural Language Querying to Massive Databases. [[Paper]](https://arxiv.org/pdf/2312.03463v1)
 
 ### Model Structure for Tabular Data
 
