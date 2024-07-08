@@ -35,7 +35,10 @@ A comprehensive paper list of Large Language Model for Table Understanding
 * Large Language Models are few(1)-shot Table Reasoners. [[Paper]](https://arxiv.org/pdf/2210.06710)
 * TaPas: Weakly Supervised Table Parsing via Pre-training. [[Paper]](https://arxiv.org/pdf/2004.02349)
 * TAPEX: Table Pre-training via Learning a Neural SQL Executor. [[Paper]](https://arxiv.org/pdf/2107.07653)
-* 
+* An inner table retriever for robust table question answering. [[Paper]](https://aclanthology.org/2023.acl-long.551.pdf)
+* LI-RAGE: Late interaction retrieval augmented generation with explicit signals for open-domain table question answering. [[Paper]](https://aclanthology.org/2023.acl-short.133.pdf)
+* DB-GPT: Empowering Database Interactions with Private Large Language Models. [[Paper]](https://arxiv.org/pdf/2312.17449)
+
 
 ### Model Structure for Tabular Data
 
