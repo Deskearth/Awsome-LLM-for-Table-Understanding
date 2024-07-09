@@ -24,6 +24,9 @@ A comprehensive paper list of Large Language Model for Table Understanding
 
 ### Survey
 * Table pre-training: A survey on model architectures, pre-training objectives, and downstream tasks. [[Paper]](https://arxiv.org/pdf/2201.09745)
+* Large Language Model for Table Processing: A Survey. [[Paper]](https://arxiv.org/pdf/2402.05121)
+* A Survey of Table Reasoning with Large Language Models. [[Paper]](https://arxiv.org/pdf/2402.08259)
+* Large Language Models (LLMs) on Tabular Data: Prediction, Generation, and Understanding - A Survey [[Paper]](https://arxiv.org/pdf/2402.17944)
 
 ### Table Encoding
 * Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs. [[Paper]](https://arxiv.org/pdf/2310.10358)
