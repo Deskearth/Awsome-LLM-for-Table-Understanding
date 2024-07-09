@@ -8,6 +8,7 @@ A comprehensive paper list of Large Language Model for Table Understanding
 - [Tutorial](##tutorial)
 - [Dataset](##dataset)
 - [Paper](##paper)
+  - [Survey](###survey)  
   - [Table Encoding](###table-encoding)
   - [Model Structure for Tabular Data](###model-structure-for-tabular-data)
   - [LLM Training with Tabular Data](###llm-training-with-tabular-data)
@@ -20,6 +21,9 @@ A comprehensive paper list of Large Language Model for Table Understanding
 * ToTTo: A Controlled Table-To-Text Generation Dataset. [[Paper]](https://arxiv.org/pdf/2004.14373) [[Dataset]](https://github.com/google-research-datasets/ToTTo)
 
 ## Paper
+
+### Survey
+* Table pre-training: A survey on model architectures, pre-training objectives, and downstream tasks. [[Paper]](https://arxiv.org/pdf/2201.09745)
 
 ### Table Encoding
 * Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs. [[Paper]](https://arxiv.org/pdf/2310.10358)
@@ -43,6 +47,10 @@ A comprehensive paper list of Large Language Model for Table Understanding
 ### Model Structure for Tabular Data
 
 ### LLM Training with Tabular Data
+* TaPas: Weakly Supervised Table Parsing via Pre-training. [[Paper]](https://arxiv.org/pdf/2004.02349)
+* TURL: table understanding through representation learning. [[Paper]](https://arxiv.org/pdf/2006.14806)
+* TABBIE: Pretrained Representations of Tabular Data. [[Paper]](https://aclanthology.org/2021.naacl-main.270.pdf)
+* StructGPT: A General Framework for Large Language Model to Reason over Structured Data. [[Paper]](https://arxiv.org/pdf/2305.09645)
 
 ### LLM-driven Table Agents
 
