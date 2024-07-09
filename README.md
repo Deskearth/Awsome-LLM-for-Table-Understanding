@@ -44,8 +44,6 @@ A comprehensive paper list of Large Language Model for Table Understanding
 * DB-GPT: Empowering Database Interactions with Private Large Language Models. [[Paper]](https://arxiv.org/pdf/2312.17449)
 
 
-### Model Structure for Tabular Data
-
 ### LLM Training with Tabular Data
 * TaPas: Weakly Supervised Table Parsing via Pre-training. [[Paper]](https://arxiv.org/pdf/2004.02349)
 * TURL: table understanding through representation learning. [[Paper]](https://arxiv.org/pdf/2006.14806)
