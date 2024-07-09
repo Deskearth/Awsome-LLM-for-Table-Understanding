@@ -59,6 +59,18 @@ A comprehensive paper list of Large Language Model for Table Understanding
 * DB-GPT: Empowering Database Interactions with Private Large Language Models. [[Paper]](https://arxiv.org/pdf/2312.17449)
 
 ### LLM-driven Table Agents
-* 
-
-### TBD
+* Table Retrieval May Not Necessitate Table-specific Model Design. [[Paper]](https://aclanthology.org/2022.suki-1.5.pdf)
+* CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets. [[Paper]](https://arxiv.org/pdf/2309.17428)
+* Self-refine: Iterative refinement with self-feedback. [[Paper]](https://arxiv.org/pdf/2303.17651)
+* DIN-SQL: Decomposed InContext Learning of Text-to-SQL with Self-Correction. [[Paper]](https://arxiv.org/pdf/2304.11015)
+* Chain-of-table: Evolving tables in the reasoning chain for table understanding. [[Paper]](https://arxiv.org/abs/2401.04398)
+* Large Language Models Are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning. [[Paper]](https://arxiv.org/pdf/2301.13808)
+* ReAct: Synergizing Reasoning and Acting in Language Models. [[Paper]](https://arxiv.org/pdf/2210.03629)
+* StructGPT: A General Framework for Large Language Model to Reason over Structured Data. [[Paper]](https://arxiv.org/pdf/2305.09645)
+* TAP4LLM: Table Provider on Sampling, Augmenting, and Packing Semi-structured Data for Large Language Model Reasoning. [[Paper]](https://arxiv.org/pdf/2312.09039)
+* Self-Consistency Improves Chain of Thought Reasoning in Language Models. [[Paper]](https://arxiv.org/pdf/2203.11171)
+* SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models. [[Paper]](https://arxiv.org/abs/2305.19308)
+* ReAcTable: Enhancing ReAct for Table Question Answering. [[Paper]](https://arxiv.org/pdf/2310.00815)
+* Binding Language Models in Symbolic Languages. [[Paper]](https://arxiv.org/pdf/2210.02875)
+* Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow. [[Paper]](https://arxiv.org/pdf/2306.07209)
+* TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks. [[Paper]](https://arxiv.org/pdf/2401.12869)
