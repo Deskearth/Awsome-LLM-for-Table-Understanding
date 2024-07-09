@@ -3,6 +3,7 @@
 
 # Awsome-LLM-for-Table-Understanding
 A comprehensive paper list of Large Language Model for Table Understanding
+🌟 We will be presenting a tutorial on “Large Language Models for Tabular Data” at the upcoming SIGIR’24 conference. See you in D.C. !😊
 
 ## Contents
 - [Tutorial](##tutorial)
