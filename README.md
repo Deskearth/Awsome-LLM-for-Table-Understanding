@@ -51,6 +51,14 @@ A comprehensive paper list of Large Language Model for Table Understanding
 * TURL: table understanding through representation learning. [[Paper]](https://arxiv.org/pdf/2006.14806)
 * TABBIE: Pretrained Representations of Tabular Data. [[Paper]](https://aclanthology.org/2021.naacl-main.270.pdf)
 * StructGPT: A General Framework for Large Language Model to Reason over Structured Data. [[Paper]](https://arxiv.org/pdf/2305.09645)
+* TAPEX: Table Pre-Training via Learning a Neural SQL Executor. [[Paper]](https://arxiv.org/pdf/2107.07653)
+* Tablegpt: Table-tuned gpt for diverse table tasks. [[Paper]](https://arxiv.org/pdf/2310.09263)
+* TableLlama: Towards Open Large Generalist Models for Tables. [[Paper]](https://arxiv.org/pdf/2311.09206)
+* TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios. [[Paper]](https://arxiv.org/pdf/2403.19318)
+* Tables as Images? Exploring the Strengths and Limitations of LLMs on Multimodal Representations of Tabular Data. [[Paper]](https://arxiv.org/pdf/2402.12424v3)
+* My Database User Is a Large Language Model. [[Paper]](https://www.scitepress.org/Papers/2024/126977/126977.pdf)
+* LLM-Enhanced Data Management. [[Paper]](https://arxiv.org/pdf/2402.02643)
+* DB-GPT: Empowering Database Interactions with Private Large Language Models. [[Paper]](https://arxiv.org/pdf/2312.17449)
 
 ### LLM-driven Table Agents
 
